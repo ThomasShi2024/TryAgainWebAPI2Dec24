@@ -1,0 +1,6 @@
+@TryAgainWebAPI2Dec24_HostAddress = http://localhost:5105
+
+GET {{TryAgainWebAPI2Dec24_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
